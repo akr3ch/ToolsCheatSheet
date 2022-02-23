@@ -1,2 +1,15 @@
-# CST-CheatSheet
-a collection of CheatSheet for CyberSecurity tools
+## CyberSecurity tools CheatSheet collection
+### currently available
+
+* `hacking tools`
+* `metasploit-framework`
+* `john the ripper`
+* `hashcat`
+* `nmap & nessus`
+* `nmap`
+* `sqlmap`
+* `wireshark`
+* `nikto`
+* `netcat`
+* `tmux`
+* `aircrack-ng`
