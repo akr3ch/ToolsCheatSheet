@@ -11,5 +11,6 @@
 * `wireshark`
 * `nikto`
 * `netcat`
+* `smbclient`
 * `tmux`
 * `aircrack-ng`
