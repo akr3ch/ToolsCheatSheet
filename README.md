@@ -5,7 +5,9 @@
 * `metasploit-framework`
 * `john the ripper`
 * `hashcat`
+* `hydra`
 * `nmap & nessus`
+* `ffuf`
 * `nmap`
 * `sqlmap`
 * `wireshark`
